@@ -1,3 +1,5 @@
+# Organiza os comandos em funções e tem uma configuração pré-definida para teste
+
 import yfinance as yf
 import numpy as np
 import pandas as pd
