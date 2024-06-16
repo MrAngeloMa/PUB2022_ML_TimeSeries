@@ -19,7 +19,7 @@ Esse Colab teve como objetivo o estudo e o teste de algorítmos de Machine Learn
 
 Todos os códigos apresentados utilizam apenas o fechamento como parâmetro e tentam prever o preço, algo que se mostrou inviável.
 
-## [3_PUB_MachineLearning]
+## [3_PUB_MachineLearning](https://github.com/MrAngeloMa/PUB2022_ML_TimeSeries/blob/main/3_PUB_MachineLearning.ipynb)
 Esse código foi melhor desenvolvido e organizado, está presente nele uma grande quantidade de materiais de apoio para a execução do projeto como um todo. Ele foi desenvolvido como uma análise final a respeito de qual atitude tomar quanto ao desenvolvimento do algoritmo desejado.
 
 #### Características:
