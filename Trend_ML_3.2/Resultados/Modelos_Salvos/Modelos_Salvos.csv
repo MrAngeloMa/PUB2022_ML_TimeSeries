@@ -1,0 +1,7 @@
+Selected_Features,Accuracy,Normalize,Intervalo,HyperP,Model_Name
+"Volume, rsi, ema_5_t, stoc_t, bol_t, adx_t, macd",60.81657525898842,True,Interval.in_1_minute,"{'max_depth': 9, 'max_features': 1, 'min_samples_leaf': 3, 'min_samples_split': 5, 'n_estimators': 64, 'n_jobs': 5}",ml_rf_Interval.in_1_minute_ac_60.82
+"Volume, Open, rsi, ema_10_t",57.46496039000609,True,Interval.in_3_minute,"{'max_depth': 9, 'max_features': 1, 'min_samples_leaf': 3, 'min_samples_split': 5, 'n_estimators': 64, 'n_jobs': 5}",ml_rf_Interval.in_3_minute_ac_57.46
+"Open, rsi, ema_5_t, sma_10_t, bol_t, macd_t, macd",58.26,False,Interval.in_5_minute,"{'max_depth': 9, 'max_features': 1, 'min_samples_leaf': 3, 'min_samples_split': 5, 'n_estimators': 64, 'n_jobs': 5}",ml_rf_Interval.in_5_minute_ac_58.26
+"Open, rsi, stoc_t, bol_t, adx_t, macd, chai_t",55.15,False,Interval.in_15_minute,"{'max_depth': 9, 'max_features': 1, 'min_samples_leaf': 3, 'min_samples_split': 5, 'n_estimators': 64, 'n_jobs': 5}",ml_rf_Interval.in_15_minute_ac_55.15
+"ema_5_t, ema_10_t, adx_t, macd_t, macd",56.0,False,Interval.in_30_minute,"{'max_depth': 9, 'max_features': 1, 'min_samples_leaf': 3, 'min_samples_split': 5, 'n_estimators': 64, 'n_jobs': 5}",ml_rf_Interval.in_30_minute_ac_56.00
+"Volume, rsi, sma_5_t, ema_10_t, bol_t, adx_t, macd, chai_t",56.19,False,Interval.in_45_minute,"{'max_depth': 9, 'max_features': 1, 'min_samples_leaf': 3, 'min_samples_split': 5, 'n_estimators': 64, 'n_jobs': 5}",ml_rf_Interval.in_45_minute_ac_56.19
